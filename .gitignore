@@ -1,0 +1,14 @@
+
+CustomerService/.idea/
+
+.idea/
+
+GatewayProxy/target/
+
+*.iml
+
+PortfolioService/target/
+
+ServiceDiscoveryServer/target/
+
+CustomerService/target/
